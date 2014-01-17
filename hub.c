@@ -1,0 +1,3 @@
+Who is this site not aimed at? Well, there are many third-party tools which exist as part of the greater Subversion ecosystem, but aren't part of the core project itself. Subversion clients such as TortoiseSVN, or Subversion's integrations into various IDE's such as Eclipse and NetBeans, or the pure Java implementation of Subversion called SVNKit — these are all valuable pieces of the Subversion story, but each is managed as its own project outside of the core Subversion offering. This site really isn't so much about those projects.
+
+The sections below provide a high-level overview of how this website is organized, making reference to the navigation menu you should find on the left-hand side of each page of the website.
